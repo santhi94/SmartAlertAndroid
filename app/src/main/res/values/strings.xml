@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="welcome">Welcome to SmartAlert</string>
+    <string name="login">Please login to continue</string>
+    <string name="safe">SmartAlert makes you feel safe</string>
+    <string name="safe2">At any emergency situation,your close contacts will be informed</string>
+    <string name="alert">Alert notification will be sent at :</string>
+    <string name="alert_list">Please select in which emergency situation do you involve :</string>
+    <string name="location">Please press the button ,in order to locate you !</string>
+    <string name="add_contancts">Add your close contact and we will inform them in emergency situations !</string>
+
+</resources>

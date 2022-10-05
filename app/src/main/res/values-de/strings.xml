@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="welcome">Willkommen zu SmartAlert</string>
+    <string name="login">Bitte einloggen zum Fortfahren</string>
+    <string name="safe">SmartAlert gibt dir ein sicheres Gefuhl</string>
+    <string name="safe2">In jeder Notsituation werden Ihre engen Kontakte informiert</string>
+    <string name="alert">Die Alarmbenachrictingung wird an gesendet :</string>
+    <string name="alert_list">Bitte wählen Sie aus, in welche Notsituation Sie involviert sind:</string>
+    <string name="location">Bitte drücken Sie die Taste , um Sie zu orten !</string>
+    <string name="add_contancts">Fügen Sie Ihren engen Kontakt hinzu und wir werden ihn in Notsituationen informieren!</string>
+</resources>

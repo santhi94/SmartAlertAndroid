@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string name="welcome">Καλωσήρθατε στο SmartAlert</string>
+    <string name="login">Παρακαλώ συνδεθείτε για να συνεχίσετε</string>
+    <string name="safe">Τώρα είστε ασφαλείς</string>
+    <string name="safe2">Σε οποιαδήποτε κατάσταση κινδύνου ,οι στενές επαφές σας θα ενημερωθούν</string>
+    <string name="alert">Η ειδοποίηση θα σταλθεί σε :</string>
+    <string name="alert_list">Επιλέξτε σε ποια κατάσταση έκτακτης ανάγκης εμπλέκεστε:</string>
+    <string name="location">Πατήστε το κουμπί για να σας εντοπίσουμε!</string>
+    <string name="add_contancts">Προσθέστε τη στενή επαφή σας και θα τους ενημερώσουμε σε καταστάσεις έκτακτης ανάγκης!</string>
+</resources>
